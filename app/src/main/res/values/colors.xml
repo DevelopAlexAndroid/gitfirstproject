@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#ee5558</color>
+    <color name="colorPrimaryDark">#ee5559</color>
+    <color name="colorAccent">#ff4081</color>
+
+    <color name="MPGUwork">#77c49a</color>
+    <color name="MPGUworkName">#1c9755</color>
+
+    <color name="MPGUstop">#eda2a3</color>
+    <color name="MPGUstopName">#ea5558</color>
+
+    <color name="MPGUerror">#b6b6b6</color>
+    <color name="MPGUerrorName">#5e5e5e</color>
+
+    <color name="MPGUlow">#77c8e9</color>
+    <color name="MPGUlowName">#00a0e3</color>
+
+
+</resources>
